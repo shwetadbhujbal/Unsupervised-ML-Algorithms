@@ -1,5 +1,5 @@
 # Unsupervised-ML-Algorithms
-Building Unsupervised Machine Learning Algorithms from Scratch
+Building Unsupervised Machine Learning Algorithms
 
 
 ## 1. K Means Clustering Algorithm:
